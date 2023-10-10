@@ -1,8 +1,4 @@
-import pandas as pd
-import numpy as np
 import streamlit as st
-import matplotlib.pyplot as plt
-import seaborn as sns
 from utils import *
 
 st.set_page_config(page_title='CSV Data Visualisation')
